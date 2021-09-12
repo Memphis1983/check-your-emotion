@@ -1,4 +1,7 @@
-# Using Azure's cognitive services (computer vision and Face api) users can upload a photo and have their emotions analyzed!
+# Computer Vision & Face API 
+## iUsing Azure's cognitive services
+
+### users can upload a photo and have their emotions analyzed!
 
 -   live version: coming soon
 
