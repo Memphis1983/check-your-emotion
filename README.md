@@ -4,7 +4,7 @@
 
 ### Users can upload a photo and have their emotions analyzed!
 
--   live version: coming soon
+-   live version: [live version: ](https://check-yo-emotion.herokuapp.com/)
 
 ---
 
