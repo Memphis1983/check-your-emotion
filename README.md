@@ -4,7 +4,9 @@
 
 ### Users can upload a photo and have their emotions analyzed!
 
--   live version: [live version: ](https://check-yo-emotion.herokuapp.com/)
+![Emtion Check](https://res.cloudinary.com/https-kieraniyer-dev-netlify-app/image/upload/v1631572678/Me/emotion-check_ededbk.png)
+
+-  [live version: ](https://check-yo-emotion.herokuapp.com/)
 
 ---
 
